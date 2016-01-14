@@ -1,6 +1,6 @@
 <?php
 /**
- * murali The template for displaying the header displaying
+ * murali ok got The template for displaying the header displaying
  *
  * Displays all of the head element and everything up until the "site-content" div.
  *
