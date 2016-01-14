@@ -47,7 +47,7 @@
 				<button class="secondary-toggle"><?php _e( 'Menu and widgets', 'twentyfifteen' ); ?></button>
 			</div><!-- .site-branding -->
 		</header><!-- .site-header -->
-dfdfhdf hdfhdf dfjdf gfdfhf
+dfdfhdf hdfhdf dfjdf gfdfhf checking clone
 		<?php get_sidebar(); ?>
 	</div><!-- .sidebar -->
 
