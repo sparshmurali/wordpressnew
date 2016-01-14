@@ -3,7 +3,7 @@
 <<<<<<< HEAD
  * murali ok got The template for displaying the header displaying
 =======
- * The template for displaying the header displaying
+ * murali ok The template for displaying the header displaying
 >>>>>>> parent of 8b48cc8... changed from git 
  *
  * Displays all of the head element and everything up until the "site-content" div.
