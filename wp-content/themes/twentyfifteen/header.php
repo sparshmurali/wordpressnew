@@ -47,7 +47,7 @@
 				<button class="secondary-toggle"><?php _e( 'Menu and widgets', 'twentyfifteen' ); ?></button>
 			</div><!-- .site-branding -->
 		</header><!-- .site-header -->
-dfdfhdf hdfhdf dfjdf
+dfdfhdf hdfhdf dfjdf gfdfhf
 		<?php get_sidebar(); ?>
 	</div><!-- .sidebar -->
 
